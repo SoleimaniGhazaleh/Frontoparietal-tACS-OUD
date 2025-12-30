@@ -46,7 +46,7 @@ This trial’s design is grounded in mechanistic hypotheses: *enhanced frontopar
 - **Design:** Randomized, triple-blind (participants, clinicians, and assessors blind to condition), sham-controlled
 - **Stimulation Paradigm:** Dual-site frontoparietal tACS
 - **Session:** Single 20-minute stimulation session
-- **Frequencies:** Theta-band (e.g., 4 Hz vs 7 Hz depending on condition)
+- **Frequencies:** 6 Hz
 - **Montage:** Synchronous stimulation at frontoparietal sites to engage executive network nodes
 - **Primary Objective:** Characterize neural engagement via changes in BOLD activity and functional connectivity
 - **Secondary Objectives:** Explore relationships between neural change and subjective craving (VAS, DDQ)
