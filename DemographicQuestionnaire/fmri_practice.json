@@ -1,0 +1,13 @@
+{
+    "MeasurementToolMetadata": {
+        "Description": "fMRI Practice"
+    }, 
+    "fmri_practice": {
+        "Description": "Did the participant compete the fMRI practice session?", 
+        "Levels": ""
+    }, 
+    "session": {
+        "Description": "Visit code", 
+        "Units": "Discrete values"
+    }
+}

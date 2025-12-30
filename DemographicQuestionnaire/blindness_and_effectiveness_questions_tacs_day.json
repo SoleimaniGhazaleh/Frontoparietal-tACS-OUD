@@ -1,0 +1,28 @@
+{
+    "MeasurementToolMetadata": {
+        "Description": "Blindness And Effectiveness Questions (tACS Day)"
+    }, 
+    "beq_1": {
+        "Description": "1. Was it \"Sham\" or Real\" stimulation?", 
+        "Levels": {
+            "0": "Sham", 
+            "1": "Real"
+        }
+    }, 
+    "beq_2": {
+        "Description": "2. On a scale of 0-100, How much you are confident with your response (mark on the line below)?", 
+        "Levels": ""
+    }, 
+    "beq_3": {
+        "Description": "3. Do you think this stimulation was effective to reduce your craving?", 
+        "Levels": ""
+    }, 
+    "beq_4": {
+        "Description": "4. On a scale of 0-100, How much this stimulation was effective (mark on the line below)?", 
+        "Levels": ""
+    }, 
+    "session": {
+        "Description": "Visit code", 
+        "Units": "Discrete values"
+    }
+}

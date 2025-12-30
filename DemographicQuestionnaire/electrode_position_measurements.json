@@ -1,0 +1,56 @@
+{
+    "MeasurementToolMetadata": {
+        "Description": "Electrode Position Measurements"
+    }, 
+    "epm_1": {
+        "Description": "1. Tragus to Tragus (CM):", 
+        "Levels": ""
+    }, 
+    "epm_2": {
+        "Description": "2. Nasion to Inion (CM):", 
+        "Levels": ""
+    }, 
+    "epm_3": {
+        "Description": "3. Circumference (CM):", 
+        "Levels": ""
+    }, 
+    "epm_checklist___1": {
+        "Description": "Check:: Have you explored the skin under the electrode? Is it clean from any serious lesion or cut?", 
+        "Levels": {
+            "0": "Unchecked", 
+            "1": "Checked"
+        }
+    }, 
+    "epm_checklist___4": {
+        "Description": "Check:: Is the room environment ready for the tACS after MRI?", 
+        "Levels": {
+            "0": "Unchecked", 
+            "1": "Checked"
+        }
+    }, 
+    "epm_checklist___5": {
+        "Description": "Check:: Have you explained well to the participants what we are going to do with the tACS device after the scan to reduce their anxiety?", 
+        "Levels": {
+            "0": "Unchecked", 
+            "1": "Checked"
+        }
+    }, 
+    "epm_checklist___6": {
+        "Description": "Check:: Is the tACS battery full?", 
+        "Levels": {
+            "0": "Unchecked", 
+            "1": "Checked"
+        }
+    }, 
+    "epm_checklist___8": {
+        "Description": "Check:: Are you filling the timing sheet for events?", 
+        "Levels": {
+            "0": "Unchecked", 
+            "1": "Checked"
+        }
+    }, 
+    "session": {
+        "Description": "Visit code", 
+        "Units": "Discrete values"
+    }
+}
