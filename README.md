@@ -12,11 +12,7 @@ This study was **pre-registered on ClinicalTrials.gov (Identifier: NCT03907644)*
 ## ClinicalTrials.gov Registration
 
 This study was pre-registered on ClinicalTrials.gov to ensure transparency in study design,
-intervention parameters, and outcome reporting.
-
-| Field | Information |
-|------|------------|
-| ClinicalTrials.gov ID | **NCT03907644** |
+intervention parameters, and outcome reporting (**NCT03907644**).
 
 🔗 **ClinicalTrials.gov record:**  
 https://clinicaltrials.gov/study/NCT03907644
