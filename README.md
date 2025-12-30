@@ -39,7 +39,7 @@ This trial’s design is grounded in mechanistic hypotheses: *enhanced frontopar
 ### **Primary Neural Measures**
 - **Drug cue reactivity fMRI:** Block design task assessing BOLD responses to opioid cues
 
-### **Secondary Behavioral Measures**
+### **Secondary Behavioral and Neural Measures**
 - **Craving scales:**  
   - Visual Analog Scale (VAS)  
   - Desire for Drug Questionnaire (DDQ)
