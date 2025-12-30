@@ -43,17 +43,18 @@ This trial’s design is grounded in mechanistic hypotheses: *enhanced frontopar
 ## Outcomes & Measures
 
 ### **Primary Neural Measures**
-- **Drug cue reactivity fMRI:** Block design task assessing BOLD response to opioid cues
+- **Drug cue reactivity fMRI:** Block design task assessing BOLD responses to opioid cues
 
 ### **Secondary Behavioral Measures**
 - **Craving scales:**  
   - Visual Analog Scale (VAS)  
   - Desire for Drug Questionnaire (DDQ)
 - **Task-Induced Functional Connectivity:**  
-  - context-dependent changes in functional coupling within the frontoparietal network and between frontoparietal and subcortical regions<img width="468" height="29" alt="image" src="https://github.com/user-attachments/assets/1d7645c4-59a4-471e-b0dc-f42e18e13740" />
+  - Context-dependent changes in functional coupling within the frontoparietal network  
+  - Context-dependent changes in functional coupling between frontoparietal and subcortical regions
 
 ### **Exploratory Measures**
-- Associations between **electric field models** and neural/behavioral outcomes
+- Associations between **electric field models** and neural/behavioral outcomes  
 - Frequency-specific effects on network oscillatory dynamics
 
 ---
