@@ -17,12 +17,6 @@ intervention parameters, and outcome reporting.
 | Field | Information |
 |------|------------|
 | ClinicalTrials.gov ID | **NCT03907644** |
-| Study Title | Frontoparietal Synchronization to Modulate Drug Cue Reactivity in Opioid Use Disorder |
-| Study Type | Interventional (Clinical Trial) |
-| Design | Randomized, triple-blind, sham-controlled |
-| Intervention | Transcranial Alternating Current Stimulation (tACS) |
-| Recruitment Status | Completed |
-| Enrollment | 60 participants |
 
 🔗 **ClinicalTrials.gov record:**  
 https://clinicaltrials.gov/study/NCT03907644
@@ -42,11 +36,7 @@ This trial’s design is grounded in mechanistic hypotheses: *enhanced frontopar
 - **Stimulation Paradigm:** Dual-site frontoparietal tACS
 - **Session:** Single 20-minute stimulation session
 - **Frequencies:** 6 Hz
-- **Montage:** Synchronous stimulation at frontoparietal sites to engage executive network nodes
-- **Primary Objective:** Characterize neural engagement via changes in BOLD activity and functional connectivity
-- **Secondary Objectives:** Explore relationships between neural change and subjective craving (VAS, DDQ)
-
-> Multiple clinical trials registered on ClinicalTrials.gov support tACS as a promising intervention for neuropsychiatric conditions, but the mechanisms and optimal parameters are still being defined (e.g., stimulation intensity, frequency, and montage). :contentReference[oaicite:12]{index=12}
+- **Montage:** 1x4 HD electrrodes over F4 and P4 locations
 
 ---
 
@@ -54,12 +44,13 @@ This trial’s design is grounded in mechanistic hypotheses: *enhanced frontopar
 
 ### **Primary Neural Measures**
 - **Drug cue reactivity fMRI:** Block design task assessing BOLD response to opioid cues
-- **Resting-state fMRI:** Connectivity within and between large-scale networks, including frontoparietal and reward circuits
 
 ### **Secondary Behavioral Measures**
 - **Craving scales:**  
   - Visual Analog Scale (VAS)  
   - Desire for Drug Questionnaire (DDQ)
+- **Task-Induced Functional Connectivity:**  
+  - context-dependent changes in functional coupling within the frontoparietal network and between frontoparietal and subcortical regions<img width="468" height="29" alt="image" src="https://github.com/user-attachments/assets/1d7645c4-59a4-471e-b0dc-f42e18e13740" />
 
 ### **Exploratory Measures**
 - Associations between **electric field models** and neural/behavioral outcomes
