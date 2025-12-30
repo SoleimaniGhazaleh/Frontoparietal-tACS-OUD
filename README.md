@@ -11,20 +11,26 @@ This study was **pre-registered on ClinicalTrials.gov (Identifier: NCT03907644)*
 
 ## ClinicalTrials.gov Registration
 
-- **ClinicalTrials.gov ID:** NCT03907644 :contentReference[oaicite:1]{index=1}
-- **Title:** *Frontoparietal Synchronization to Modulate Drug Craving in Opioid Use Disorder* :contentReference[oaicite:2]{index=2}
-- **Recruitment Status:** Completed :contentReference[oaicite:3]{index=3}
-- **Enrollment:** ~60 participants :contentReference[oaicite:4]{index=4}
-- **Study Type:** Interventional (Clinical Trial) :contentReference[oaicite:5]{index=5}
-- **Intervention:** Transcranial Alternating Current Stimulation (tACS) :contentReference[oaicite:6]{index=6}
-- **Sponsor:** Laureate Institute for Brain Research, Inc. :contentReference[oaicite:7]{index=7}
-- **Collaborator:** Brain & Behavior Research Foundation :contentReference[oaicite:8]{index=8}
-- **Location:** Laureate Institute for Brain Research (Tulsa, OK) :contentReference[oaicite:9]{index=9}
-- **Primary Completion:** June 15, 2023 :contentReference[oaicite:10]{index=10}
-- **Study Completion:** June 15, 2023 :contentReference[oaicite:11]{index=11}
+This study was pre-registered on ClinicalTrials.gov to ensure transparency in study design,
+intervention parameters, and outcome reporting.
 
-This preregistration ensures transparency in design and outcome reporting and identifies the intervention parameters and primary outcomes ahead of analysis.
+| Field | Information |
+|------|------------|
+| ClinicalTrials.gov ID | **NCT03907644** |
+| Study Title | Frontoparietal Synchronization to Modulate Drug Craving in Opioid Use Disorder |
+| Study Type | Interventional (Clinical Trial) |
+| Design | Randomized, triple-blind, sham-controlled |
+| Intervention | Transcranial Alternating Current Stimulation (tACS) |
+| Recruitment Status | Completed |
+| Enrollment | ~60 participants |
+| Sponsor | Laureate Institute for Brain Research, Inc. |
+| Collaborator | Brain & Behavior Research Foundation |
+| Study Location | Laureate Institute for Brain Research, Tulsa, OK |
+| Primary Completion Date | June 15, 2023 |
+| Study Completion Date | June 15, 2023 |
 
+🔗 **ClinicalTrials.gov record:**  
+https://clinicaltrials.gov/study/NCT03907644
 ---
 
 ## Scientific Rationale
