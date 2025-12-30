@@ -29,7 +29,7 @@ This trial’s design is grounded in mechanistic hypotheses: *enhanced frontopar
 - **Design:** Randomized, triple-blind (participants, clinicians, and assessors blind to condition), sham-controlled
 - **Stimulation Paradigm:** Dual-site frontoparietal tACS
 - **Session:** Single 20-minute stimulation session
-- **Frequencies:** 6 Hz
+- **Frequency and Intensity:** 6 Hz and 2 mA (peak-to-peak)
 - **Montage:** 1x4 HD electrrodes over F4 and P4 locations
 
 ---
