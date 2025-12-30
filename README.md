@@ -3,7 +3,7 @@
 ![Frontoparietal tACS OUD overview](ReadMeImage.jpg)
 
 ## Overview
-**Frontoparietal-tACS-OUD** is a code and analysis repository for a **randomized, triple-blind, sham-controlled clinical trial** investigating **frontoparietal dual-site transcranial alternating current stimulation (tACS)** in **opioid use disorder (OUD)**. The trial aims to characterize **neural target engagement** — specifically how frontoparietal network modulation alters large-scale brain activity and connectivity — using **pre- and post-stimulation functional MRI (fMRI)** including resting-state and drug cue reactivity paradigms.
+**Frontoparietal-tACS-OUD** is a code and analysis repository for a **randomized, triple-blind, sham-controlled clinical trial** investigating **frontoparietal dual-site transcranial alternating current stimulation (tACS)** in **opioid use disorder (OUD)**. The trial aims to characterize **neural target engagement** — specifically how frontoparietal network modulation alters large-scale brain activity and connectivity in fronto-limbic network — using **pre- and post-stimulation functional MRI (fMRI)** including resting-state and drug cue reactivity paradigms.
 
 ---
 
