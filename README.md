@@ -17,17 +17,12 @@ intervention parameters, and outcome reporting.
 | Field | Information |
 |------|------------|
 | ClinicalTrials.gov ID | **NCT03907644** |
-| Study Title | Frontoparietal Synchronization to Modulate Drug Craving in Opioid Use Disorder |
+| Study Title | Frontoparietal Synchronization to Modulate Drug Cue Reactivity in Opioid Use Disorder |
 | Study Type | Interventional (Clinical Trial) |
 | Design | Randomized, triple-blind, sham-controlled |
 | Intervention | Transcranial Alternating Current Stimulation (tACS) |
 | Recruitment Status | Completed |
-| Enrollment | ~60 participants |
-| Sponsor | Laureate Institute for Brain Research, Inc. |
-| Collaborator | Brain & Behavior Research Foundation |
-| Study Location | Laureate Institute for Brain Research, Tulsa, OK |
-| Primary Completion Date | June 15, 2023 |
-| Study Completion Date | June 15, 2023 |
+| Enrollment | 60 participants |
 
 🔗 **ClinicalTrials.gov record:**  
 https://clinicaltrials.gov/study/NCT03907644
