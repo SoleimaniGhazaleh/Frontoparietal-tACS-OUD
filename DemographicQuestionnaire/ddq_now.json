@@ -1,0 +1,177 @@
+{
+    "MeasurementToolMetadata": {
+        "Description": "DDQ - Now"
+    }, 
+    "now_ddq_1": {
+        "Description": "1. Using drugs would be satisfying now", 
+        "Levels": {
+            "1": "Strongly Disagree", 
+            "2": "", 
+            "3": "", 
+            "4": "", 
+            "5": "", 
+            "6": "", 
+            "7": "Strongly Agree"
+        }
+    }, 
+    "now_ddq_10": {
+        "Description": "10. Using drugs now would make me feel less tense", 
+        "Levels": {
+            "1": "Strongly Disagree", 
+            "2": "", 
+            "3": "", 
+            "4": "", 
+            "5": "", 
+            "6": "", 
+            "7": "Strongly Agree"
+        }
+    }, 
+    "now_ddq_11": {
+        "Description": "11. Even major problems in my life would not bother me if I used drugs now", 
+        "Levels": {
+            "1": "Strongly Disagree", 
+            "2": "", 
+            "3": "", 
+            "4": "", 
+            "5": "", 
+            "6": "", 
+            "7": "Strongly Agree"
+        }
+    }, 
+    "now_ddq_12": {
+        "Description": "12. Using drugs would be pleasant now", 
+        "Levels": {
+            "1": "Strongly Disagree", 
+            "2": "", 
+            "3": "", 
+            "4": "", 
+            "5": "", 
+            "6": "", 
+            "7": "Strongly Agree"
+        }
+    }, 
+    "now_ddq_13": {
+        "Description": "13. I am going to use drugs as soon as I possibly can", 
+        "Levels": {
+            "1": "Strongly Disagree", 
+            "2": "", 
+            "3": "", 
+            "4": "", 
+            "5": "", 
+            "6": "", 
+            "7": "Strongly Agree"
+        }
+    }, 
+    "now_ddq_2": {
+        "Description": "2. I would consider using drugs now", 
+        "Levels": {
+            "1": "Strongly Disagree", 
+            "2": "", 
+            "3": "", 
+            "4": "", 
+            "5": "", 
+            "6": "", 
+            "7": "Strongly Agree"
+        }
+    }, 
+    "now_ddq_3": {
+        "Description": "3. If I started using drugs now I would be able to stop", 
+        "Levels": {
+            "1": "Strongly Disagree", 
+            "2": "", 
+            "3": "", 
+            "4": "", 
+            "5": "", 
+            "6": "", 
+            "7": "Strongly Agree"
+        }
+    }, 
+    "now_ddq_4": {
+        "Description": "4. I would do almost anything to use drugs now", 
+        "Levels": {
+            "1": "Strongly Disagree", 
+            "2": "", 
+            "3": "", 
+            "4": "", 
+            "5": "", 
+            "6": "", 
+            "7": "Strongly Agree"
+        }
+    }, 
+    "now_ddq_5": {
+        "Description": "5. I would feel less worried about my daily problems if I used drugs now", 
+        "Levels": {
+            "1": "Strongly Disagree", 
+            "2": "", 
+            "3": "", 
+            "4": "", 
+            "5": "", 
+            "6": "", 
+            "7": "Strongly Agree"
+        }
+    }, 
+    "now_ddq_6": {
+        "Description": "6. My desire to use drugs now seems overwhelming", 
+        "Levels": {
+            "1": "Strongly Disagree", 
+            "2": "", 
+            "3": "", 
+            "4": "", 
+            "5": "", 
+            "6": "", 
+            "7": "Strongly Agree"
+        }
+    }, 
+    "now_ddq_7": {
+        "Description": "7. I could easily limit how much drugs I would use if I used now", 
+        "Levels": {
+            "1": "Strongly Disagree", 
+            "2": "", 
+            "3": "", 
+            "4": "", 
+            "5": "", 
+            "6": "", 
+            "7": "Strongly Agree"
+        }
+    }, 
+    "now_ddq_8": {
+        "Description": "8. I would feel as if all the bad things in my life had disappeared if I used drugs now", 
+        "Levels": {
+            "1": "Strongly Disagree", 
+            "2": "", 
+            "3": "", 
+            "4": "", 
+            "5": "", 
+            "6": "", 
+            "7": "Strongly Agree"
+        }
+    }, 
+    "now_ddq_9": {
+        "Description": "9. I want drugs so much I can almost taste it", 
+        "Levels": {
+            "1": "Strongly Disagree", 
+            "2": "", 
+            "3": "", 
+            "4": "", 
+            "5": "", 
+            "6": "", 
+            "7": "Strongly Agree"
+        }
+    }, 
+    "now_ddq_controle_score": {
+        "Description": "DDQ Cont role", 
+        "Levels": "roundup(sum([now_ddq_3],[now_ddq_7])/2,2)"
+    }, 
+    "now_ddq_desire_score": {
+        "Description": "DDQ Desire", 
+        "Levels": "roundup(sum([now_ddq_1],[now_ddq_2],[now_ddq_4],[now_ddq_6],[now_ddq_9],[now_ddq_12],[now_ddq_13])/7,2)"
+    }, 
+    "now_ddq_neg_score": {
+        "Description": "DDQ Neg", 
+        "Levels": "roundup(sum([now_ddq_8],[now_ddq_11],[now_ddq_5],[now_ddq_10])/4,2)"
+    }, 
+    "session": {
+        "Description": "Visit code", 
+        "Units": "Discrete values"
+    }
+}

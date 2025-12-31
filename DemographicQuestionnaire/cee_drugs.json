@@ -1,0 +1,545 @@
+{
+    "MeasurementToolMetadata": {
+        "Description": "CEE Drugs"
+    }, 
+    "attentional_score": {
+        "Description": "I. ATTENTIONAL/OBSESSIOVE RESPONSE SCORE:", 
+        "Levels": "sum([cee_meth_28],[cee_meth_64],[cee_meth_67],[cee_meth_21],(100-[cee_meth_19]))"
+    }, 
+    "cee_meth_1": {
+        "Description": "1. I did not recall any personal memories due to viewing these photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_10": {
+        "Description": "10. I didn't like seeing the photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_11": {
+        "Description": "11. I kept up the internal dialogue about the photos with myself even after they had ended", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_12": {
+        "Description": "12. I was intensely aware of sensations with my gut, my heart beat or skin", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_13": {
+        "Description": "13. I recalled of many personal memories (good or bad) due to viewing these photos ", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_14": {
+        "Description": "14. I was overwhelmed with the photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_15": {
+        "Description": "15. I felt my heart beating faster (or slower) when viewing the photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_16": {
+        "Description": "16. At one point, I didn't want to see any more of the photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_17": {
+        "Description": "17. I tried hard to control my feelings and cravings when I saw the photos and I was successful", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_18": {
+        "Description": "18. I enjoyed seeing the photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_19": {
+        "Description": "19. My mind did not closely attach to the photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_2": {
+        "Description": "2. The photos made me anxious", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_20": {
+        "Description": "20. I really wanted drugs", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_21": {
+        "Description": "21. The photos were constantly repeating in my mind after viewing them", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_22": {
+        "Description": "22. I had an \"inner-talk\" in my head about the photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_23": {
+        "Description": "23. I was very disturbed seeing the photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_24": {
+        "Description": "24.  I have many very positive memories associated with photos that were shown in the drug photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_25": {
+        "Description": "25. I recalled bad memories when I saw the photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_26": {
+        "Description": "26. I had a very bad feeling when viewing the photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_27": {
+        "Description": "27. I had a feeling of mastery over my thoughts and feelings when I was seeing the photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_28": {
+        "Description": "28. The photos grabbed my attention very strongly", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_29": {
+        "Description": "29. I had a specific sensation in my limbs when I was seeing the photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_3": {
+        "Description": "3. I felt as if I was really using drugs", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_30": {
+        "Description": "30. I recalled pleasant memories when I saw the photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_31": {
+        "Description": "31. I was not in control of my emotions and impulses when I was seeing the photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_32": {
+        "Description": "32. I was able to see how these photos can change my feelings and thoughts", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_33": {
+        "Description": "33. I felt depressed when I was seeing the photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_34": {
+        "Description": "34. I was aware of how those photos were affecting my brain processes", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_35": {
+        "Description": "35. I did not exert any mental effort to reframe my first impression and change my brain's response to the photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_36": {
+        "Description": "36. I was becoming willing to consider doing almost anything to use methamphetamine", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_37": {
+        "Description": "37. I had a desire to talk about my experience of seeing the photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_38": {
+        "Description": "38. I reminded myself about the negative consequences of using drugs again when I was seeing the photos in order to change my response to the photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_39": {
+        "Description": "39. I used my mental skills to change my brain's view to the photos and thereby change my internal response", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_4": {
+        "Description": "4. I believed that if I talked about my feelings about the photos I would be able to control my feelings about them", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_40": {
+        "Description": "40. I wished you would stop showing the photos to me", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_41": {
+        "Description": "41. I thought using drugs would be fun again", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_42": {
+        "Description": "42. I was able to remind myself about the positive benefits of abstinence in order to change my response to the photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_43": {
+        "Description": "43. I was talking to myself about the photos while I was seeing them", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_44": {
+        "Description": "44. It is very hard for me to explain with words what I was feeling while seeing the drug photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_45": {
+        "Description": "45. I was experiencing an intense craving (almost uncontrollable desire) to use drugs", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_46": {
+        "Description": "46. I took joy in seeing the photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_47": {
+        "Description": "47. I was completely numb. I was unable to feel my body", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_48": {
+        "Description": "48. I was in touch with a gut response when viewing the photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_49": {
+        "Description": "49. I was fully in control of my emotions and impulses while I was seeing the photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_5": {
+        "Description": "5. I had specific feelings and thoughts when I was viewing the photos but I had no idea how these feelings or thoughts were generated", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_50": {
+        "Description": "50. I did not have any inner-talk with myself while I was seeing the photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_51": {
+        "Description": "51. I wanted to avoid seeing the photos when you were showing them to me", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_52": {
+        "Description": "52. I understood how drug cues like these photos can impact my thoughts and feelings", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_53": {
+        "Description": "53. I tried to control my feelings and thoughts when I was seeing the photos but I could not", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_54": {
+        "Description": "54. I wanted to run away from the photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_55": {
+        "Description": "55. I needed to summon the energy to control my thoughts and feelings during seeing the photos and I was successful", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_56": {
+        "Description": "56. I tried hard to control my feelings and cravings when I saw the photos and I was <u>not</u> successful", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_57": {
+        "Description": "57. Seeing the photos made me feel good", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_58": {
+        "Description": "58. I was considering using drugs", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_59": {
+        "Description": "59. These photos reminded me of many bad memories ", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_6": {
+        "Description": "6. Many words came to mind to describe my feelings when I was seeing photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_60": {
+        "Description": "60. I was fearful while seeing the photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_61": {
+        "Description": "61. I was talking with myself about how I would be affected if I started using drugs again in order to change my response to the photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_62": {
+        "Description": "62. While seeing the photos, I felt that my mind was constantly chattering about them", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_63": {
+        "Description": "63. I was confident that I was well in control of my thoughts and feelings while I was seeing these photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_64": {
+        "Description": "64. I was very much engaged with the photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_65": {
+        "Description": "65. I was very interested in using drugs", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_66": {
+        "Description": "66. I could see how these photos might change my behavior", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_67": {
+        "Description": "67. I couldn't think about anything else, when I was watching the photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_68": {
+        "Description": "68. I was unable to control my thoughts and emotions when I was seeing the photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_7": {
+        "Description": "7. Words were not easily accessible for me to describe my feelings while I was exposed to the photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_8": {
+        "Description": "8. I associated really bad memories with scenes I was seeing in the drug photos", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "cee_meth_9": {
+        "Description": "9. These photos brought-back many good memories for me", 
+        "Levels": {
+            "0": "Strongly<br>Disagree ", 
+            "100": " Strongly<br>Agree"
+        }
+    }, 
+    "gen_memory_score": {
+        "Description": "E. GENERAL MEMORY RESPONSE (Good or Bad) SCORE:", 
+        "Levels": "sum([cee_meth_13],[cee_meth_1])"
+    }, 
+    "interoceptive_score": {
+        "Description": "H. INTEROCEPTIVE RESPONSE  SCORE:", 
+        "Levels": "sum([cee_meth_12],[cee_meth_29],[cee_meth_48],[cee_meth_15],(100-[cee_meth_47]))"
+    }, 
+    "metacog_score": {
+        "Description": "O. METACOGNITIVE RESPONSE (Awareness to the Importance of Cue Reactivity to Relapse) SCORE:", 
+        "Levels": "sum([cee_meth_52],[cee_meth_66],[cee_meth_34],[cee_meth_32],(100-[cee_meth_5]))"
+    }, 
+    "neg_appetitive_score": {
+        "Description": "C. NEGATIVE APPETITIVE RESPONSE (Avoidance, Aversion, Hating, Running away) SCORE:", 
+        "Levels": "sum([cee_meth_54],[cee_meth_40],[cee_meth_10],[cee_meth_16],[cee_meth_51])"
+    }, 
+    "neg_emotional_score": {
+        "Description": "D. NEGATIVE EMOTIONAL RESPONSE (Disgusted, Fearful, Anxious, Depressed, Guilty, Withdrawal) SCORE:", 
+        "Levels": "sum([cee_meth_23],[cee_meth_2],[cee_meth_33],[cee_meth_60],[cee_meth_26])"
+    }, 
+    "neg_memory_score": {
+        "Description": "G. NEGATIVE MEMORY RESPONSE (Bad memories retrieval, like....) SCORE:", 
+        "Levels": "sum([cee_meth_25],[cee_meth_59],[cee_meth_8])"
+    }, 
+    "pos_appetitive_score": {
+        "Description": "A. POSITIVE APPETITIVE (Wanting, Liking, Craving, Urging) SCORE:", 
+        "Levels": "sum([cee_meth_58],[cee_meth_36],[cee_meth_45],[cee_meth_20],[cee_meth_65])"
+    }, 
+    "pos_emotional_score": {
+        "Description": "B. POSITIVE EMOTIONAL (Happiness, Calmness, Satiated, Elated, Pleasured, Intoxicated) SCORE:", 
+        "Levels": "sum([cee_meth_18],[cee_meth_41],[cee_meth_46],[cee_meth_3],[cee_meth_57])"
+    }, 
+    "pos_memory_score": {
+        "Description": "F. POSITIVE MEMORY RESPONSE (Good memories retrieval, like....) SCORE:", 
+        "Levels": "sum([cee_meth_30],[cee_meth_9],[cee_meth_24])"
+    }, 
+    "reappraisal_score": {
+        "Description": "M. REAPPRAISAL RESPONSE (Positive Coping/Reframing) SCORE:", 
+        "Levels": "sum([cee_meth_39],[cee_meth_61],[cee_meth_38],[cee_meth_42],(100-[cee_meth_35]))"
+    }, 
+    "ruminative_score": {
+        "Description": "L. RUMINATIVE RESPONSE SCORE:", 
+        "Levels": "sum([cee_meth_62],[cee_meth_22],[cee_meth_11],[cee_meth_43],(100-[cee_meth_50]))"
+    }, 
+    "session": {
+        "Description": "Visit code", 
+        "Units": "Discrete values"
+    }, 
+    "success_control_score": {
+        "Description": "K. SUCCESSFUL EFFORTFUL CONTROLLING RESPONSE (Being In-control) SCORE:", 
+        "Levels": "sum([cee_meth_17],[cee_meth_27],[cee_meth_49],[cee_meth_63],[cee_meth_55])"
+    }, 
+    "unsuccess_control_score": {
+        "Description": "J. UNSUCCESSFUL EFFORTFUL CONTROLLING RESPONSE (Being Overwhelmed) SCORE:", 
+        "Levels": "sum([cee_meth_56],[cee_meth_14],[cee_meth_31],[cee_meth_68],[cee_meth_53])"
+    }, 
+    "verbalizing_score": {
+        "Description": "N. VERBALIZING RESPONSE SCORE:", 
+        "Levels": "sum([cee_meth_37],[cee_meth_6],[cee_meth_4],(100-[cee_meth_7]),(100-[cee_meth_44]))"
+    }
+}

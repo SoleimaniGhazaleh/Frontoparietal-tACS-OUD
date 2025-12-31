@@ -1,0 +1,658 @@
+{
+    "MeasurementToolMetadata": {
+        "Description": "MRI Session Form - Functional"
+    }, 
+    "mris_notes": {
+        "Description": "Notes", 
+        "Levels": ""
+    }, 
+    "mris_outcome": {
+        "Description": "Outcome", 
+        "Levels": {
+            "1": "Complete", 
+            "2": "Incomplete"
+        }
+    }, 
+    "mris_runat_01": {
+        "Description": "Run #1:Date and Time", 
+        "Levels": ""
+    }, 
+    "mris_runat_02": {
+        "Description": "Run #2:Date and Time", 
+        "Levels": ""
+    }, 
+    "mris_runat_03": {
+        "Description": "Run #3:Date and Time", 
+        "Levels": ""
+    }, 
+    "mris_runat_04": {
+        "Description": "Run #4:Date and Time", 
+        "Levels": ""
+    }, 
+    "mris_runat_05": {
+        "Description": "Run #5:Date and Time", 
+        "Levels": ""
+    }, 
+    "mris_runat_06": {
+        "Description": "Run #6:Date and Time", 
+        "Levels": ""
+    }, 
+    "mris_runat_07": {
+        "Description": "Run #7:Date and Time", 
+        "Levels": ""
+    }, 
+    "mris_runat_08": {
+        "Description": "Run #8:Date and Time", 
+        "Levels": ""
+    }, 
+    "mris_runat_09": {
+        "Description": "Run #9:Date and Time", 
+        "Levels": ""
+    }, 
+    "mris_runat_10": {
+        "Description": "Run #10:Date and Time", 
+        "Levels": ""
+    }, 
+    "mris_runat_11": {
+        "Description": "Run #11:Date and Time", 
+        "Levels": ""
+    }, 
+    "mris_runat_12": {
+        "Description": "Run #12:Date and Time", 
+        "Levels": ""
+    }, 
+    "mris_runat_13": {
+        "Description": "Run #13:Date and Time", 
+        "Levels": ""
+    }, 
+    "mris_runat_14": {
+        "Description": "Run #14:Date and Time", 
+        "Levels": ""
+    }, 
+    "mris_runat_15": {
+        "Description": "Run #15:Date and Time", 
+        "Levels": ""
+    }, 
+    "mris_runat_16": {
+        "Description": "Run #16:Date and Time", 
+        "Levels": ""
+    }, 
+    "mris_runat_17": {
+        "Description": "Run #17:Date and Time", 
+        "Levels": ""
+    }, 
+    "mris_runat_18": {
+        "Description": "Run #18:Date and Time", 
+        "Levels": ""
+    }, 
+    "mris_runat_19": {
+        "Description": "Run #19:Date and Time", 
+        "Levels": ""
+    }, 
+    "mris_runat_20": {
+        "Description": "Run #20:Date and Time", 
+        "Levels": ""
+    }, 
+    "mris_runat_21": {
+        "Description": "Run #21:Date and Time", 
+        "Levels": ""
+    }, 
+    "mris_runat_22": {
+        "Description": "Run #22:Date and Time", 
+        "Levels": ""
+    }, 
+    "mris_runat_23": {
+        "Description": "Run #23:Date and Time", 
+        "Levels": ""
+    }, 
+    "mris_runat_24": {
+        "Description": "Run #24:Date and Time", 
+        "Levels": ""
+    }, 
+    "mris_runat_25": {
+        "Description": "Run #25:Date and Time", 
+        "Levels": ""
+    }, 
+    "mris_runat_26": {
+        "Description": "Run #26:Date and Time", 
+        "Levels": ""
+    }, 
+    "mris_runat_27": {
+        "Description": "Run #27:Date and Time", 
+        "Levels": ""
+    }, 
+    "mris_runat_28": {
+        "Description": "Run #28:Date and Time", 
+        "Levels": ""
+    }, 
+    "mris_runat_29": {
+        "Description": "Run #29:Date and Time", 
+        "Levels": ""
+    }, 
+    "mris_runat_30": {
+        "Description": "Run #30:Date and Time", 
+        "Levels": ""
+    }, 
+    "mris_runid_01": {
+        "Description": "Run #1:ID", 
+        "Levels": {
+            "1": "3Plane LOC SSFSE", 
+            "14": "Other", 
+            "16": "REST_PRE", 
+            "17": "MCR_PRE", 
+            "18": "REST_POST", 
+            "19": "MCR_POST", 
+            "2": "ASSET calibration", 
+            "3": "Ax Mprage-Asset"
+        }
+    }, 
+    "mris_runid_02": {
+        "Description": "Run #2:ID", 
+        "Levels": {
+            "1": "3Plane LOC SSFSE", 
+            "14": "Other", 
+            "16": "REST_PRE", 
+            "17": "MCR_PRE", 
+            "18": "REST_POST", 
+            "19": "MCR_POST", 
+            "2": "ASSET calibration", 
+            "3": "Ax Mprage-Asset"
+        }
+    }, 
+    "mris_runid_03": {
+        "Description": "Run #3:ID", 
+        "Levels": {
+            "1": "3Plane LOC SSFSE", 
+            "14": "Other", 
+            "16": "REST_PRE", 
+            "17": "MCR_PRE", 
+            "18": "REST_POST", 
+            "19": "MCR_POST", 
+            "2": "ASSET calibration", 
+            "3": "Ax Mprage-Asset"
+        }
+    }, 
+    "mris_runid_04": {
+        "Description": "Run #4:ID", 
+        "Levels": {
+            "1": "3Plane LOC SSFSE", 
+            "14": "Other", 
+            "16": "REST_PRE", 
+            "17": "MCR_PRE", 
+            "18": "REST_POST", 
+            "19": "MCR_POST", 
+            "2": "ASSET calibration", 
+            "3": "Ax Mprage-Asset"
+        }
+    }, 
+    "mris_runid_05": {
+        "Description": "Run #5:ID", 
+        "Levels": {
+            "1": "3Plane LOC SSFSE", 
+            "14": "Other", 
+            "16": "REST_PRE", 
+            "17": "MCR_PRE", 
+            "18": "REST_POST", 
+            "19": "MCR_POST", 
+            "2": "ASSET calibration", 
+            "3": "Ax Mprage-Asset"
+        }
+    }, 
+    "mris_runid_06": {
+        "Description": "Run #6:ID", 
+        "Levels": {
+            "1": "3Plane LOC SSFSE", 
+            "14": "Other", 
+            "16": "REST_PRE", 
+            "17": "MCR_PRE", 
+            "18": "REST_POST", 
+            "19": "MCR_POST", 
+            "2": "ASSET calibration", 
+            "3": "Ax Mprage-Asset"
+        }
+    }, 
+    "mris_runid_07": {
+        "Description": "Run #7:ID", 
+        "Levels": {
+            "1": "3Plane LOC SSFSE", 
+            "14": "Other", 
+            "16": "REST_PRE", 
+            "17": "MCR_PRE", 
+            "18": "REST_POST", 
+            "19": "MCR_POST", 
+            "2": "ASSET calibration", 
+            "3": "Ax Mprage-Asset"
+        }
+    }, 
+    "mris_runid_08": {
+        "Description": "Run #8:ID", 
+        "Levels": {
+            "1": "3Plane LOC SSFSE", 
+            "14": "Other", 
+            "16": "REST_PRE", 
+            "17": "MCR_PRE", 
+            "18": "REST_POST", 
+            "19": "MCR_POST", 
+            "2": "ASSET calibration", 
+            "3": "Ax Mprage-Asset"
+        }
+    }, 
+    "mris_runid_09": {
+        "Description": "Run #9:ID", 
+        "Levels": {
+            "1": "3Plane LOC SSFSE", 
+            "14": "Other", 
+            "16": "REST_PRE", 
+            "17": "MCR_PRE", 
+            "18": "REST_POST", 
+            "19": "MCR_POST", 
+            "2": "ASSET calibration", 
+            "3": "Ax Mprage-Asset"
+        }
+    }, 
+    "mris_runid_10": {
+        "Description": "Run #10:ID", 
+        "Levels": {
+            "1": "3Plane LOC SSFSE", 
+            "14": "Other", 
+            "16": "REST_PRE", 
+            "17": "MCR_PRE", 
+            "18": "REST_POST", 
+            "19": "MCR_POST", 
+            "2": "ASSET calibration", 
+            "3": "Ax Mprage-Asset"
+        }
+    }, 
+    "mris_runid_11": {
+        "Description": "Run #11:ID", 
+        "Levels": {
+            "1": "3Plane LOC SSFSE", 
+            "14": "Other", 
+            "16": "REST_PRE", 
+            "17": "MCR_PRE", 
+            "18": "REST_POST", 
+            "19": "MCR_POST", 
+            "2": "ASSET calibration", 
+            "3": "Ax Mprage-Asset"
+        }
+    }, 
+    "mris_runid_12": {
+        "Description": "Run #12:ID", 
+        "Levels": {
+            "1": "3Plane LOC SSFSE", 
+            "14": "Other", 
+            "16": "REST_PRE", 
+            "17": "MCR_PRE", 
+            "18": "REST_POST", 
+            "19": "MCR_POST", 
+            "2": "ASSET calibration", 
+            "3": "Ax Mprage-Asset"
+        }
+    }, 
+    "mris_runid_13": {
+        "Description": "Run #13:ID", 
+        "Levels": {
+            "1": "3Plane LOC SSFSE", 
+            "14": "Other", 
+            "16": "REST_PRE", 
+            "17": "MCR_PRE", 
+            "18": "REST_POST", 
+            "19": "MCR_POST", 
+            "2": "ASSET calibration", 
+            "3": "Ax Mprage-Asset"
+        }
+    }, 
+    "mris_runid_14": {
+        "Description": "Run #14:ID", 
+        "Levels": {
+            "1": "3Plane LOC SSFSE", 
+            "14": "Other", 
+            "16": "REST_PRE", 
+            "17": "MCR_PRE", 
+            "18": "REST_POST", 
+            "19": "MCR_POST", 
+            "2": "ASSET calibration", 
+            "3": "Ax Mprage-Asset"
+        }
+    }, 
+    "mris_runid_15": {
+        "Description": "Run #15:ID", 
+        "Levels": {
+            "1": "3Plane LOC SSFSE", 
+            "14": "Other", 
+            "16": "REST_PRE", 
+            "17": "MCR_PRE", 
+            "18": "REST_POST", 
+            "19": "MCR_POST", 
+            "2": "ASSET calibration", 
+            "3": "Ax Mprage-Asset"
+        }
+    }, 
+    "mris_runid_16": {
+        "Description": "Run #16:ID", 
+        "Levels": {
+            "1": "3Plane LOC SSFSE", 
+            "14": "Other", 
+            "16": "REST_PRE", 
+            "17": "MCR_PRE", 
+            "18": "REST_POST", 
+            "19": "MCR_POST", 
+            "2": "ASSET calibration", 
+            "3": "Ax Mprage-Asset"
+        }
+    }, 
+    "mris_runid_17": {
+        "Description": "Run #17:ID", 
+        "Levels": {
+            "1": "3Plane LOC SSFSE", 
+            "14": "Other", 
+            "16": "REST_PRE", 
+            "17": "MCR_PRE", 
+            "18": "REST_POST", 
+            "19": "MCR_POST", 
+            "2": "ASSET calibration", 
+            "3": "Ax Mprage-Asset"
+        }
+    }, 
+    "mris_runid_18": {
+        "Description": "Run #18:ID", 
+        "Levels": {
+            "1": "3Plane LOC SSFSE", 
+            "14": "Other", 
+            "16": "REST_PRE", 
+            "17": "MCR_PRE", 
+            "18": "REST_POST", 
+            "19": "MCR_POST", 
+            "2": "ASSET calibration", 
+            "3": "Ax Mprage-Asset"
+        }
+    }, 
+    "mris_runid_19": {
+        "Description": "Run #19:ID", 
+        "Levels": {
+            "1": "3Plane LOC SSFSE", 
+            "14": "Other", 
+            "16": "REST_PRE", 
+            "17": "MCR_PRE", 
+            "18": "REST_POST", 
+            "19": "MCR_POST", 
+            "2": "ASSET calibration", 
+            "3": "Ax Mprage-Asset"
+        }
+    }, 
+    "mris_runid_20": {
+        "Description": "Run #20:ID", 
+        "Levels": {
+            "1": "3Plane LOC SSFSE", 
+            "14": "Other", 
+            "16": "REST_PRE", 
+            "17": "MCR_PRE", 
+            "18": "REST_POST", 
+            "19": "MCR_POST", 
+            "2": "ASSET calibration", 
+            "3": "Ax Mprage-Asset"
+        }
+    }, 
+    "mris_runid_21": {
+        "Description": "Run #21:ID", 
+        "Levels": {
+            "1": "3Plane LOC SSFSE", 
+            "14": "Other", 
+            "16": "REST_PRE", 
+            "17": "MCR_PRE", 
+            "18": "REST_POST", 
+            "19": "MCR_POST", 
+            "2": "ASSET calibration", 
+            "3": "Ax Mprage-Asset"
+        }
+    }, 
+    "mris_runid_22": {
+        "Description": "Run #22:ID", 
+        "Levels": {
+            "1": "3Plane LOC SSFSE", 
+            "14": "Other", 
+            "16": "REST_PRE", 
+            "17": "MCR_PRE", 
+            "18": "REST_POST", 
+            "19": "MCR_POST", 
+            "2": "ASSET calibration", 
+            "3": "Ax Mprage-Asset"
+        }
+    }, 
+    "mris_runid_23": {
+        "Description": "Run #23:ID", 
+        "Levels": {
+            "1": "3Plane LOC SSFSE", 
+            "14": "Other", 
+            "16": "REST_PRE", 
+            "17": "MCR_PRE", 
+            "18": "REST_POST", 
+            "19": "MCR_POST", 
+            "2": "ASSET calibration", 
+            "3": "Ax Mprage-Asset"
+        }
+    }, 
+    "mris_runid_24": {
+        "Description": "Run #24:ID", 
+        "Levels": {
+            "1": "3Plane LOC SSFSE", 
+            "14": "Other", 
+            "16": "REST_PRE", 
+            "17": "MCR_PRE", 
+            "18": "REST_POST", 
+            "19": "MCR_POST", 
+            "2": "ASSET calibration", 
+            "3": "Ax Mprage-Asset"
+        }
+    }, 
+    "mris_runid_25": {
+        "Description": "Run #25:ID", 
+        "Levels": {
+            "1": "3Plane LOC SSFSE", 
+            "14": "Other", 
+            "16": "REST_PRE", 
+            "17": "MCR_PRE", 
+            "18": "REST_POST", 
+            "19": "MCR_POST", 
+            "2": "ASSET calibration", 
+            "3": "Ax Mprage-Asset"
+        }
+    }, 
+    "mris_runid_26": {
+        "Description": "Run #26:ID", 
+        "Levels": {
+            "1": "3Plane LOC SSFSE", 
+            "14": "Other", 
+            "16": "REST_PRE", 
+            "17": "MCR_PRE", 
+            "18": "REST_POST", 
+            "19": "MCR_POST", 
+            "2": "ASSET calibration", 
+            "3": "Ax Mprage-Asset"
+        }
+    }, 
+    "mris_runid_27": {
+        "Description": "Run #27:ID", 
+        "Levels": {
+            "1": "3Plane LOC SSFSE", 
+            "14": "Other", 
+            "16": "REST_PRE", 
+            "17": "MCR_PRE", 
+            "18": "REST_POST", 
+            "19": "MCR_POST", 
+            "2": "ASSET calibration", 
+            "3": "Ax Mprage-Asset"
+        }
+    }, 
+    "mris_runid_28": {
+        "Description": "Run #28:ID", 
+        "Levels": {
+            "1": "3Plane LOC SSFSE", 
+            "14": "Other", 
+            "16": "REST_PRE", 
+            "17": "MCR_PRE", 
+            "18": "REST_POST", 
+            "19": "MCR_POST", 
+            "2": "ASSET calibration", 
+            "3": "Ax Mprage-Asset"
+        }
+    }, 
+    "mris_runid_29": {
+        "Description": "Run #29:ID", 
+        "Levels": {
+            "1": "3Plane LOC SSFSE", 
+            "14": "Other", 
+            "16": "REST_PRE", 
+            "17": "MCR_PRE", 
+            "18": "REST_POST", 
+            "19": "MCR_POST", 
+            "2": "ASSET calibration", 
+            "3": "Ax Mprage-Asset"
+        }
+    }, 
+    "mris_runid_30": {
+        "Description": "Run #30:ID", 
+        "Levels": {
+            "1": "3Plane LOC SSFSE", 
+            "14": "Other", 
+            "16": "REST_PRE", 
+            "17": "MCR_PRE", 
+            "18": "REST_POST", 
+            "19": "MCR_POST", 
+            "2": "ASSET calibration", 
+            "3": "Ax Mprage-Asset"
+        }
+    }, 
+    "mris_runproblems_01": {
+        "Description": "Run #1:Problems and Comments", 
+        "Levels": ""
+    }, 
+    "mris_runproblems_02": {
+        "Description": "Run #2:Problems and Comments", 
+        "Levels": ""
+    }, 
+    "mris_runproblems_03": {
+        "Description": "Run #3:Problems and Comments", 
+        "Levels": ""
+    }, 
+    "mris_runproblems_04": {
+        "Description": "Run #4:Problems and Comments", 
+        "Levels": ""
+    }, 
+    "mris_runproblems_05": {
+        "Description": "Run #5:Problems and Comments", 
+        "Levels": ""
+    }, 
+    "mris_runproblems_06": {
+        "Description": "Run #6:Problems and Comments", 
+        "Levels": ""
+    }, 
+    "mris_runproblems_07": {
+        "Description": "Run #7:Problems and Comments", 
+        "Levels": ""
+    }, 
+    "mris_runproblems_08": {
+        "Description": "Run #8:Problems and Comments", 
+        "Levels": ""
+    }, 
+    "mris_runproblems_09": {
+        "Description": "Run #9:Problems and Comments", 
+        "Levels": ""
+    }, 
+    "mris_runproblems_10": {
+        "Description": "Run #10:Problems and Comments", 
+        "Levels": ""
+    }, 
+    "mris_runproblems_11": {
+        "Description": "Run #11:Problems and Comments", 
+        "Levels": ""
+    }, 
+    "mris_runproblems_12": {
+        "Description": "Run #12:Problems and Comments", 
+        "Levels": ""
+    }, 
+    "mris_runproblems_13": {
+        "Description": "Run #13:Problems and Comments", 
+        "Levels": ""
+    }, 
+    "mris_runproblems_14": {
+        "Description": "Run #14:Problems and Comments", 
+        "Levels": ""
+    }, 
+    "mris_runproblems_15": {
+        "Description": "Run #15:Problems and Comments", 
+        "Levels": ""
+    }, 
+    "mris_runproblems_16": {
+        "Description": "Run #16:Problems and Comments", 
+        "Levels": ""
+    }, 
+    "mris_runproblems_17": {
+        "Description": "Run #17:Problems and Comments", 
+        "Levels": ""
+    }, 
+    "mris_runproblems_18": {
+        "Description": "Run #18:Problems and Comments", 
+        "Levels": ""
+    }, 
+    "mris_runproblems_19": {
+        "Description": "Run #19:Problems and Comments", 
+        "Levels": ""
+    }, 
+    "mris_runproblems_20": {
+        "Description": "Run #20:Problems and Comments", 
+        "Levels": ""
+    }, 
+    "mris_runproblems_21": {
+        "Description": "Run #21:Problems and Comments", 
+        "Levels": ""
+    }, 
+    "mris_runproblems_22": {
+        "Description": "Run #22:Problems and Comments", 
+        "Levels": ""
+    }, 
+    "mris_runproblems_23": {
+        "Description": "Run #23:Problems and Comments", 
+        "Levels": ""
+    }, 
+    "mris_runproblems_24": {
+        "Description": "Run #24:Problems and Comments", 
+        "Levels": ""
+    }, 
+    "mris_runproblems_25": {
+        "Description": "Run #25:Problems and Comments", 
+        "Levels": ""
+    }, 
+    "mris_runproblems_26": {
+        "Description": "Run #26:Problems and Comments", 
+        "Levels": ""
+    }, 
+    "mris_runproblems_27": {
+        "Description": "Run #27:Problems and Comments", 
+        "Levels": ""
+    }, 
+    "mris_runproblems_28": {
+        "Description": "Run #28:Problems and Comments", 
+        "Levels": ""
+    }, 
+    "mris_runproblems_29": {
+        "Description": "Run #29:Problems and Comments", 
+        "Levels": ""
+    }, 
+    "mris_runproblems_30": {
+        "Description": "Run #30:Problems and Comments", 
+        "Levels": ""
+    }, 
+    "mris_scanid": {
+        "Description": "Scan ID:", 
+        "Levels": ""
+    }, 
+    "mris_scanned_at": {
+        "Description": "Scan date", 
+        "Levels": ""
+    }, 
+    "session": {
+        "Description": "Visit code", 
+        "Units": "Discrete values"
+    }
+}

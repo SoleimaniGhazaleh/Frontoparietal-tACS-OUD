@@ -1,0 +1,289 @@
+{
+    "MeasurementToolMetadata": {
+        "Description": "tACS Adverse Effects Questionnaire"
+    }, 
+    "aeq_1": {
+        "Description": "Headache", 
+        "Levels": ""
+    }, 
+    "aeq_10": {
+        "Description": "Trouble concentrating", 
+        "Levels": ""
+    }, 
+    "aeq_10a": {
+        "Description": "Please describe the severity:", 
+        "Levels": {
+            "1": "absent", 
+            "2": "mild", 
+            "3": "moderate", 
+            "4": "severe"
+        }
+    }, 
+    "aeq_10b": {
+        "Description": "Is this related to tACS?", 
+        "Levels": {
+            "1": "no", 
+            "2": "remote", 
+            "3": "possible", 
+            "4": "probably", 
+            "5": "definite"
+        }
+    }, 
+    "aeq_11": {
+        "Description": "Acute mood change", 
+        "Levels": ""
+    }, 
+    "aeq_11a": {
+        "Description": "Please describe the severity:", 
+        "Levels": {
+            "1": "absent", 
+            "2": "mild", 
+            "3": "moderate", 
+            "4": "severe"
+        }
+    }, 
+    "aeq_11b": {
+        "Description": "Is this related to tACS?", 
+        "Levels": {
+            "1": "no", 
+            "2": "remote", 
+            "3": "possible", 
+            "4": "probably", 
+            "5": "definite"
+        }
+    }, 
+    "aeq_12": {
+        "Description": "Other adverse effects", 
+        "Levels": ""
+    }, 
+    "aeq_12a": {
+        "Description": "Please describe the severity:", 
+        "Levels": {
+            "1": "absent", 
+            "2": "mild", 
+            "3": "moderate", 
+            "4": "severe"
+        }
+    }, 
+    "aeq_12b": {
+        "Description": "Is this related to tACS?", 
+        "Levels": {
+            "1": "no", 
+            "2": "remote", 
+            "3": "possible", 
+            "4": "probably", 
+            "5": "definite"
+        }
+    }, 
+    "aeq_1a": {
+        "Description": "Please describe the severity:", 
+        "Levels": {
+            "1": "absent", 
+            "2": "mild", 
+            "3": "moderate", 
+            "4": "severe"
+        }
+    }, 
+    "aeq_1b": {
+        "Description": "Is this related to tACS?", 
+        "Levels": {
+            "1": "no", 
+            "2": "remote", 
+            "3": "possible", 
+            "4": "probably", 
+            "5": "definite"
+        }
+    }, 
+    "aeq_2": {
+        "Description": "Neck Pain", 
+        "Levels": ""
+    }, 
+    "aeq_2a": {
+        "Description": "Please describe the severity:", 
+        "Levels": {
+            "1": "absent", 
+            "2": "mild", 
+            "3": "moderate", 
+            "4": "severe"
+        }
+    }, 
+    "aeq_2b": {
+        "Description": "Is this related to tACS?", 
+        "Levels": {
+            "1": "no", 
+            "2": "remote", 
+            "3": "possible", 
+            "4": "probably", 
+            "5": "definite"
+        }
+    }, 
+    "aeq_3": {
+        "Description": "Scalp Pain", 
+        "Levels": ""
+    }, 
+    "aeq_3a": {
+        "Description": "Please describe the severity:", 
+        "Levels": {
+            "1": "absent", 
+            "2": "mild", 
+            "3": "moderate", 
+            "4": "severe"
+        }
+    }, 
+    "aeq_3b": {
+        "Description": "Is this related to tACS?", 
+        "Levels": {
+            "1": "no", 
+            "2": "remote", 
+            "3": "possible", 
+            "4": "probably", 
+            "5": "definite"
+        }
+    }, 
+    "aeq_4": {
+        "Description": "Tingling", 
+        "Levels": ""
+    }, 
+    "aeq_4a": {
+        "Description": "Please describe the severity:", 
+        "Levels": {
+            "1": "absent", 
+            "2": "mild", 
+            "3": "moderate", 
+            "4": "severe"
+        }
+    }, 
+    "aeq_4b": {
+        "Description": "Is this related to tACS?", 
+        "Levels": {
+            "1": "no", 
+            "2": "remote", 
+            "3": "possible", 
+            "4": "probably", 
+            "5": "definite"
+        }
+    }, 
+    "aeq_5": {
+        "Description": "Itching", 
+        "Levels": ""
+    }, 
+    "aeq_5a": {
+        "Description": "Please describe the severity:", 
+        "Levels": {
+            "1": "absent", 
+            "2": "mild", 
+            "3": "moderate", 
+            "4": "severe"
+        }
+    }, 
+    "aeq_5b": {
+        "Description": "Is this related to tACS?", 
+        "Levels": {
+            "1": "no", 
+            "2": "remote", 
+            "3": "possible", 
+            "4": "probably", 
+            "5": "definite"
+        }
+    }, 
+    "aeq_6": {
+        "Description": "Itching", 
+        "Levels": ""
+    }, 
+    "aeq_6a": {
+        "Description": "Please describe the severity:", 
+        "Levels": {
+            "1": "absent", 
+            "2": "mild", 
+            "3": "moderate", 
+            "4": "severe"
+        }
+    }, 
+    "aeq_6b": {
+        "Description": "Is this related to tACS?", 
+        "Levels": {
+            "1": "no", 
+            "2": "remote", 
+            "3": "possible", 
+            "4": "probably", 
+            "5": "definite"
+        }
+    }, 
+    "aeq_7": {
+        "Description": "Burning sensation", 
+        "Levels": ""
+    }, 
+    "aeq_7a": {
+        "Description": "Please describe the severity:", 
+        "Levels": {
+            "1": "absent", 
+            "2": "mild", 
+            "3": "moderate", 
+            "4": "severe"
+        }
+    }, 
+    "aeq_7b": {
+        "Description": "Is this related to tACS?", 
+        "Levels": {
+            "1": "no", 
+            "2": "remote", 
+            "3": "possible", 
+            "4": "probably", 
+            "5": "definite"
+        }
+    }, 
+    "aeq_8": {
+        "Description": "Skin redness", 
+        "Levels": ""
+    }, 
+    "aeq_8a": {
+        "Description": "Please describe the severity:", 
+        "Levels": {
+            "1": "absent", 
+            "2": "mild", 
+            "3": "moderate", 
+            "4": "severe"
+        }
+    }, 
+    "aeq_8b": {
+        "Description": "Is this related to tACS?", 
+        "Levels": {
+            "1": "no", 
+            "2": "remote", 
+            "3": "possible", 
+            "4": "probably", 
+            "5": "definite"
+        }
+    }, 
+    "aeq_9": {
+        "Description": "Sleepiness", 
+        "Levels": ""
+    }, 
+    "aeq_9a": {
+        "Description": "Please describe the severity:", 
+        "Levels": {
+            "1": "absent", 
+            "2": "mild", 
+            "3": "moderate", 
+            "4": "severe"
+        }
+    }, 
+    "aeq_9b": {
+        "Description": "Is this related to tACS?", 
+        "Levels": {
+            "1": "no", 
+            "2": "remote", 
+            "3": "possible", 
+            "4": "probably", 
+            "5": "definite"
+        }
+    }, 
+    "aeq_other": {
+        "Description": "Please specify:", 
+        "Levels": ""
+    }, 
+    "session": {
+        "Description": "Visit code", 
+        "Units": "Discrete values"
+    }
+}

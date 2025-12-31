@@ -1,0 +1,47 @@
+{
+    "MeasurementToolMetadata": {
+        "Description": "Brief Drug Craving Scale (BCS)"
+    }, 
+    "bmcs_1": {
+        "Description": "1. The INTENSITY of my craving, that is, how much I desired drugs in the <u>past 24 hours</u> was:", 
+        "Levels": {
+            "0": "None at all", 
+            "1": "Slight", 
+            "2": "Moderate", 
+            "3": "Considerable", 
+            "4": "Extreme"
+        }
+    }, 
+    "bmcs_2": {
+        "Description": "2. The FREQUENCY of my craving, that is, how often I desired drugs in the past <u>24 hours</u> was:", 
+        "Levels": {
+            "0": "Never", 
+            "1": "Almost never", 
+            "2": "Several times", 
+            "3": "Regularly", 
+            "4": "Almost constantly"
+        }
+    }, 
+    "bmcs_3": {
+        "Description": "3. The LENGTH of time I spent in craving for drugs during the past <u>24 hours</u> was:", 
+        "Levels": {
+            "0": "None at all", 
+            "1": "Very short", 
+            "2": "Short", 
+            "3": "Somewhat long", 
+            "4": "Very long"
+        }
+    }, 
+    "bmcs_4": {
+        "Description": "4. Type in the NUMBER of times you think you had craving for drugs during the <u>past 24 hours.</u>", 
+        "Levels": ""
+    }, 
+    "bmcs_date": {
+        "Description": "Date:", 
+        "Levels": ""
+    }, 
+    "session": {
+        "Description": "Visit code", 
+        "Units": "Discrete values"
+    }
+}
